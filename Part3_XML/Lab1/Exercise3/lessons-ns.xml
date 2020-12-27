@@ -1,0 +1,51 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<TimeTable>
+<myns:TimeTable xmlns:myns = "http://www.itmo.ru/xml/lessons">
+	<myns:item>
+		<myns:Name>Технологии программирования</myns:Name>
+		<myns:Lecturer>Осипов Н.А.</myns:Lecturer>
+		<myns:ClassTime>18:30 - 21:50</myns:ClassTime>
+		<myns:DaysOfWeek>Понедельник, вторник, четверг</myns:DaysOfWeek>
+		<myns:StartDate> 28 сентября 2020</myns:StartDate>
+		<myns:ExpirationDate>15 октября 2020</myns:ExpirationDate>		
+	</myns:item>
+	<myns:item>
+		<myns:Name>Программирование на С#</myns:Name>
+		<myns:Lecturer>Осипов Н.А.</myns:Lecturer>
+		<myns:ClassTime>18:30 - 21:50</myns:ClassTime>
+		<myns:DaysOfWeek>Понедельник, вторник, четверг, пятница</myns:DaysOfWeek>
+		<myns:StartDate> 17 октября 2020</myns:StartDate>
+		<myns:ExpirationDate>29 октября 2020</myns:ExpirationDate>		
+	</myns:item>
+	<myns:item>
+		<myns:Name>Введение в БД</myns:Name>
+		<myns:Lecturer>Осетрова И.С.</myns:Lecturer>
+		<myns:ClassTime>18:30 - 21:50</myns:ClassTime>
+		<myns:DaysOfWeek>Понедельник, вторник, пятница</myns:DaysOfWeek>
+		<myns:StartDate> 31 октября 2020</myns:StartDate>
+		<myns:ExpirationDate>10 ноября 2020</myns:ExpirationDate>		
+	</myns:item>
+	<myns:item>
+		<myns:Name>Разработка Windows-приложений на С#</myns:Name>
+		<myns:Lecturer>Смольянинов А.В.</myns:Lecturer>
+		<myns:ClassTime>18:30 - 21:50</myns:ClassTime>
+		<myns:DaysOfWeek>Понедельник, вторник, пятница</myns:DaysOfWeek>
+		<myns:StartDate> 31 октября 2020</myns:StartDate>
+		<myns:ExpirationDate>10 ноября 2020</myns:ExpirationDate>		
+	</myns:item>
+	</myns:TimeTable>
+<literature xmlns:bk = "http://library">
+	<bk:item>
+		<bk:Title>Изучаем HTML, XHTML и CSS</bk:Title>
+		<bk:Name>Эрик Фримен, Элизабет Фримен</bk:Name>
+	</bk:item>
+	<bk:item>
+		<bk:Title>Основы WPF</bk:Title>
+		<bk:Name>Крис Андерсон</bk:Name>
+	</bk:item>
+	<bk:item>
+		<bk:Title>Изучаем C#</bk:Title>
+		<bk:Name>Эндрю Стиллмен, Дженнифер Грин</bk:Name>
+	</bk:item>		
+</literature>
+</TimeTable>
