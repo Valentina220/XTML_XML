@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT TimeTable (subject+)>
+<!ELEMENT subject (Name, Lecturer, ClassTime, DaysOfWeek, StartDate, ExpirationDate)> <!ELEMENT Name (#PCDATA)> 
+<!ELEMENT Lecturer (#PCDATA)> 
+<!ELEMENT ClassTime (#PCDATA)> 
+<!ELEMENT DaysOfWeek (#PCDATA)> 
+<!ELEMENT StartDate (#PCDATA)>
+<!ELEMENT ExpirationDate (#PCDATA)>
