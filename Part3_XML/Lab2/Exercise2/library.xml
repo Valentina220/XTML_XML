@@ -1,0 +1,18 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<!DOCTYPE library SYSTEM "library_DTD.dtd">
+<library>
+	<book_catalog>
+		<book id = "1" isbn = "да" year = "2017" issue = "translation">
+		<authors>
+				<author>Джек Лондон</author>
+			</authors>
+			<title>Мартин Иден</title>
+			<publishing>АСТ</publishing>
+			<annotation>Самый известный роман Джека Лондона</annotation>
+		</book>
+	</book_catalog>	
+	<author_catalog>
+	<author_book idref = "id">Джек Лондон, Мартин Иден</author_book>
+	</author_catalog>
+	<element>&linux;&internet;</element>
+</library>
