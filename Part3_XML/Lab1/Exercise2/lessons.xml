@@ -1,0 +1,35 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<lessons>
+	<subject id = "1">
+		<Name>Технологии программирования</Name>
+		<Lecturer>Осипов Н.А.</Lecturer>
+		<ClassTime>18:30 - 21:50</ClassTime>
+		<DaysOfWeek>Понедельник, вторник, четверг</DaysOfWeek>
+		<StartDate> 28 сентября 2020</StartDate>
+		<ExpirationDate>15 октября 2020</ExpirationDate>		
+	</subject>
+	<subject id = "2">
+		<Name>Программирование на С#</Name>
+		<Lecturer>Осипов Н.А.</Lecturer>
+		<ClassTime>18:30 - 21:50</ClassTime>
+		<DaysOfWeek>Понедельник, вторник, четверг, пятница</DaysOfWeek>
+		<StartDate> 17 октября 2020</StartDate>
+		<ExpirationDate>29 октября 2020</ExpirationDate>		
+	</subject>
+	<subject id = "3">
+		<Name>Введение в БД</Name>
+		<Lecturer>Осетрова И.С.</Lecturer>
+		<ClassTime>18:30 - 21:50</ClassTime>
+		<DaysOfWeek>Понедельник, вторник, пятница</DaysOfWeek>
+		<StartDate> 31 октября 2020</StartDate>
+		<ExpirationDate>10 ноября 2020</ExpirationDate>		
+	</subject>
+	<subbject id = "4">
+		<Name>Разработка Windows-приложений на С#</Name>
+		<Lecturer>Смольянинов А.В.</Lecturer>
+		<ClassTime>18:30 - 21:50</ClassTime>
+		<DaysOfWeek>Понедельник, вторник, пятница</DaysOfWeek>
+		<StartDate> 31 октября 2020</StartDate>
+		<ExpirationDate>10 ноября 2020</ExpirationDate>		
+	</subbject>
+</lessons>
